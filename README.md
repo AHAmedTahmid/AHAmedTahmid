@@ -26,8 +26,8 @@ I build and ship software that solves real business problems. By day, I lead QA 
 
 | Project | What it does | Stack |
 |---|---|---|
-| [**LandInvest**](https://github.com/AHAmedTahmid/LandInvest) | Multi-tenant ERP for real-estate syndicates: partner capital, treasury, plot sales and profit distribution. Database-per-tenant design, role-based access control and a 25-report pack with PDF/Excel export. | Next.js · TypeScript · Prisma · MySQL · Redis · BullMQ |
-| [**Ride Master**](https://github.com/AHAmedTahmid/ride-master) | Taxi marketplace for the Maldives where riders compare live prices from licensed taxi companies. Monorepo with real-time API and English/Dhivehi (RTL) support. | NestJS · Next.js · Socket.IO · Docker · GitHub Actions |
+| [**LandInvest**](https://github.com/AHAmedTahmid/LandInvest) | Multi-tenant ERP for real-estate syndicates: partner capital, treasury, plot sales and profit distribution. Database-per-tenant design, role-based access control and a bunch of report pack. | Next.js · TypeScript · Prisma · MySQL · Redis · BullMQ |
+| [**Ride Master**](https://github.com/AHAmedTahmid/ride-master) | Taxi marketplace where riders compare live prices from licensed taxi companies. Monorepo with real-time API and English/Dhivehi (RTL) support. | NestJS · Next.js · Socket.IO · Docker · GitHub Actions |
 | [**CryptoWallet**](https://github.com/ahamedtahmid/crptowallet) | Cryptocurrency portfolio manager with wallet tracking and transaction history. | Python · Django |
 | [**MetSearch**](https://github.com/ahamedtahmid/metsearch) | Bus route finder that helps users identify the best public transit routes. | Python · HTML |
 | [**RM22**](https://github.com/ahamedtahmid/RM22) | Internet-controlled IoT robot using NodeMCU ESP8266 over Wi-Fi. | IoT · Embedded Systems |
