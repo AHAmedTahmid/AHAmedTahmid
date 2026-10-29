@@ -30,7 +30,7 @@ I build and ship software that solves real business problems. By day, I lead QA 
 | [**Ride Master**](https://github.com/AHAmedTahmid/ride-master) | Taxi marketplace where riders compare live prices from licensed taxi companies. Monorepo with real-time API and English/Dhivehi (RTL) support. | NestJS · Next.js · Socket.IO · Docker · GitHub Actions |
 | [**CryptoWallet**](https://github.com/ahamedtahmid/crptowallet) | Cryptocurrency portfolio manager with wallet tracking and transaction history. | Python · Django |
 | [**MetSearch**](https://github.com/ahamedtahmid/metsearch) | Bus route finder that helps users identify the best public transit routes. | Python · HTML |
-| [**RM22**](https://github.com/ahamedtahmid/RM22) | Internet-controlled IoT robot using NodeMCU ESP8266 over Wi-Fi. | IoT · Embedded Systems |
+
 
 ## 🛠️ Tech Stack
 
